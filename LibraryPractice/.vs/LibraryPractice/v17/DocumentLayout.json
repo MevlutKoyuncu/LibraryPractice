@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mevl\u00FCt\\source\\repos\\LibraryPractice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7A9E34-B823-4613-95FD-F82813FB6453}|LibraryPractice\\LibraryPractice.csproj|c:\\users\\mevl\u00FCt\\source\\repos\\librarypractice\\librarypractice\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C7A9E34-B823-4613-95FD-F82813FB6453}|LibraryPractice\\LibraryPractice.csproj|solutionrelative:librarypractice\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7A9E34-B823-4613-95FD-F82813FB6453}|LibraryPractice\\LibraryPractice.csproj|c:\\users\\mevl\u00FCt\\source\\repos\\librarypractice\\librarypractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C7A9E34-B823-4613-95FD-F82813FB6453}|LibraryPractice\\LibraryPractice.csproj|solutionrelative:librarypractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7A9E34-B823-4613-95FD-F82813FB6453}|LibraryPractice\\LibraryPractice.csproj|c:\\users\\mevl\u00FCt\\source\\repos\\librarypractice\\librarypractice\\mesalibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C7A9E34-B823-4613-95FD-F82813FB6453}|LibraryPractice\\LibraryPractice.csproj|solutionrelative:librarypractice\\mesalibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mevl\u00FCt\\source\\repos\\LibraryPractice\\LibraryPractice\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryPractice\\Program.cs",
+              "ToolTip": "C:\\Users\\Mevl\u00FCt\\source\\repos\\LibraryPractice\\LibraryPractice\\Program.cs",
+              "RelativeToolTip": "LibraryPractice\\Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwCUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T18:47:58.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MesaLibrary.cs",
+              "DocumentMoniker": "C:\\Users\\Mevl\u00FCt\\source\\repos\\LibraryPractice\\LibraryPractice\\MesaLibrary.cs",
+              "RelativeDocumentMoniker": "LibraryPractice\\MesaLibrary.cs",
+              "ToolTip": "C:\\Users\\Mevl\u00FCt\\source\\repos\\LibraryPractice\\LibraryPractice\\MesaLibrary.cs",
+              "RelativeToolTip": "LibraryPractice\\MesaLibrary.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAmwBcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T17:47:04.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Mevl\u00FCt\\source\\repos\\LibraryPractice\\LibraryPractice\\Book.cs",
+              "RelativeDocumentMoniker": "LibraryPractice\\Book.cs",
+              "ToolTip": "C:\\Users\\Mevl\u00FCt\\source\\repos\\LibraryPractice\\LibraryPractice\\Book.cs",
+              "RelativeToolTip": "LibraryPractice\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T17:45:28.694Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
